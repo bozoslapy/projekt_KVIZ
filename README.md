@@ -4,7 +4,7 @@ Tekst naloge --> Imamo 3 tipke A, B in C. Krmiljenje naj ugotavlja, katera tipka
 
 Materiali --> 1x Arduino Uno, 1x printer kabel, 1x protoboard, 1x LCD zaslon, 4x gumb, 3x LED dioda        ( rdeča, rumena, zelena ), 3x upor ( 220ohm ), 3x upor ( 10000 ohm ), 23x žičke. 
 
-Slika --> ![Slika vezave]()
+Slika --> ![Slika vezave](https://raw.githubusercontent.com/bozoslapy/projekt_KVIZ/main/IMG_20220601_075849.jpg)
 
 
 Slika vezja -->
