@@ -10,5 +10,5 @@ Slika --> ![Slika vezave](https://raw.githubusercontent.com/bozoslapy/projekt_KV
 Slika vezja -->
 
 
-Komentar na delovanje -->
+Komentar na delovanje --> 
 
