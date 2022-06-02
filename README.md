@@ -7,8 +7,7 @@ Materiali --> 1x Arduino Uno, 1x printer kabel, 1x protoboard, 1x LCD zaslon, 4x
 Slika --> ![Slika vezave](https://raw.githubusercontent.com/bozoslapy/projekt_KVIZ/main/IMG_20220601_075849.jpg)
 
 
-Slika vezja --> ![schematic](https://raw.githubusercontent.com/bozoslapy/projekt_KVIZ/main/shema.PNG)
-
+Slika vezja --> ![schematic](https://raw.githubusercontent.com/bozoslapy/projekt_KVIZ/main/schematic.PNG)
 
 Slika vezja --> ![protoboard](https://raw.githubusercontent.com/bozoslapy/projekt_KVIZ/main/image.png)
 
