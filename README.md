@@ -7,8 +7,13 @@ Materiali --> 1x Arduino Uno, 1x printer kabel, 1x protoboard, 1x LCD zaslon, 4x
 Slika --> ![Slika vezave](https://raw.githubusercontent.com/bozoslapy/projekt_KVIZ/main/IMG_20220601_075849.jpg)
 
 
-Slika vezja -->
+Slika vezja --> ![schematic]( )
+
+
+Slika vezja --> ![protoboard]( )
 
 
 Komentar na delovanje --> Veliko problemov sva imela pri pisanju programa, saj so gumbi težki za programirati. Razen teh težav pri progamiranju ni bilo. Naloga je bila drugače zahtevna, ampak sva vse uspešno naredila tako da sedaj naprava deluje brez napak. 
+
+
 
