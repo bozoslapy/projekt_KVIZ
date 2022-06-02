@@ -16,6 +16,9 @@ Slika vezja --> ![protoboard](https://raw.githubusercontent.com/bozoslapy/projek
 Priredbeni seznam --> ![priredbeni sezanm](https://raw.githubusercontent.com/bozoslapy/projekt_KVIZ/main/siuuuu.PNG)
 
 
+Video --> [![Posnetek delovanja]()
+
+
 Komentar na delovanje --> Veliko problemov sva imela pri pisanju programa, saj so gumbi težki za programirati. Razen teh težav pri progamiranju ni bilo. Naloga je bila drugače zahtevna, ampak sva vse uspešno naredila tako da sedaj naprava deluje brez napak. 
 
 
