@@ -4,6 +4,8 @@ Tekst naloge --> Imamo 3 tipke A, B in C. Krmiljenje naj ugotavlja, katera tipka
 
 Materiali --> 1x Arduino Uno, 1x printer kabel, 1x protoboard, 1x LCD zaslon, 4x gumb, 3x LED dioda        ( rdeča, rumena, zelena ), 3x upor ( 220ohm ), 3x upor ( 10000 ohm ), 23x žičke. 
 
+Komentar na delovanje --> Veliko problemov sva imela pri pisanju programa, saj so gumbi težki za programirati. Razen teh težav pri progamiranju ni bilo. Naloga je bila drugače zahtevna, ampak sva vse uspešno naredila tako da sedaj naprava deluje brez napak. 
+
 Slika --> ![Slika vezave](https://raw.githubusercontent.com/bozoslapy/projekt_KVIZ/main/IMG_20220601_075849.jpg)
 
 
@@ -19,7 +21,7 @@ Priredbeni seznam --> ![priredbeni sezanm](https://raw.githubusercontent.com/boz
 Video --> [![Posnetek delovanja](https://raw.githubusercontent.com/bozoslapy/projekt_KVIZ/main/petal_20220601_094539.mp4)
 
 
-Komentar na delovanje --> Veliko problemov sva imela pri pisanju programa, saj so gumbi težki za programirati. Razen teh težav pri progamiranju ni bilo. Naloga je bila drugače zahtevna, ampak sva vse uspešno naredila tako da sedaj naprava deluje brez napak. 
+
 
 
 
