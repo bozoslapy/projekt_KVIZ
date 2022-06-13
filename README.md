@@ -6,6 +6,7 @@ Materiali --> 1x Arduino Uno, 1x printer kabel, 1x protoboard, 1x LCD zaslon, 4x
 
 Komentar na delovanje --> Veliko problemov sva imela pri pisanju programa, saj so gumbi težki za programirati. Razen teh težav pri progamiranju ni bilo. Naloga je bila drugače zahtevna, ampak sva vse uspešno naredila tako da sedaj naprava deluje brez napak. 
 
+
 Slika --> ![Slika vezave](https://raw.githubusercontent.com/bozoslapy/projekt_KVIZ/main/IMG_20220601_075849.jpg)
 
 
@@ -19,6 +20,19 @@ Priredbeni seznam --> ![priredbeni sezanm](https://raw.githubusercontent.com/boz
 
 
 Video --> [![Posnetek delovanja](https://raw.githubusercontent.com/bozoslapy/projekt_KVIZ/main/petal_20220601_094539.mp4)
+
+
+LAD program --> ![LAD program] ()
+
+
+Vezalno shema EASY-E4-UC-12RC1 --> ![Vezalno shema EASY-E4-UC-12RC] ()
+
+
+Funkcijski program --> ![Funkcijski program] ()
+
+
+Vezalna shema MITSUBISHI --> ![Vezalna shema MITSUBISHI] ()
+
 
 
 
