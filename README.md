@@ -16,7 +16,7 @@ Slika vezja --> ![schematic](https://raw.githubusercontent.com/bozoslapy/projekt
 Slika vezja --> ![protoboard](https://raw.githubusercontent.com/bozoslapy/projekt_KVIZ/main/image.png)
 
 
-Priredbeni seznam --> ![priredbeni sezanm](https://raw.githubusercontent.com/bozoslapy/projekt_KVIZ/main/siuuuu.PNG)
+Priredbeni seznam -->![priredbeni sezanm](https://raw.githubusercontent.com/bozoslapy/projekt_KVIZ/main/siuuuu.PNG)
 
 
 Video --> [![Posnetek delovanja](https://raw.githubusercontent.com/bozoslapy/projekt_KVIZ/main/petal_20220601_094539.mp4)
