@@ -34,6 +34,9 @@ Funkcijski program --> ![Funkcijski program] ()
 Vezalna shema MITSUBISHI --> ![Vezalna shema MITSUBISHI] ()
 
 
+Video --> [![Posnetek delovanja] ()
+
+
 
 
 
