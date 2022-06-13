@@ -28,7 +28,7 @@ LAD program --> ![LAD program](https://raw.githubusercontent.com/bozoslapy/proje
 Vezalno shema EASY-E4-UC-12RC1 --> ![Vezalno shema EASY-E4-UC-12RC](https://raw.githubusercontent.com/bozoslapy/projekt_KVIZ/main/vezalna%20shema%20easyeda.PNG)
 
 
-Funkcijski program --> ![Funkcijski program] ()
+Funkcijski program --> ![Funkcijski program](https://raw.githubusercontent.com/bozoslapy/projekt_KVIZ/67ea14814a81f3483eb28432d087cd38a6474edc/MIC.PNG)
 
 
 Vezalna shema MITSUBISHI --> ![Vezalna shema MITSUBISHI] ()
