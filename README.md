@@ -22,7 +22,7 @@ Priredbeni seznam --> ![priredbeni sezanm](https://raw.githubusercontent.com/boz
 Video --> [![Posnetek delovanja](https://raw.githubusercontent.com/bozoslapy/projekt_KVIZ/main/petal_20220601_094539.mp4)
 
 
-LAD program --> ![LAD program] (https://raw.githubusercontent.com/bozoslapy/projekt_KVIZ/a73275f65a2a1e18d576af743fdbbe644eef21fb/Lad%20diagram.PNG)
+LAD program --> ![LAD program](https://raw.githubusercontent.com/bozoslapy/projekt_KVIZ/a73275f65a2a1e18d576af743fdbbe644eef21fb/Lad%20diagram.PNG)
 
 
 Vezalno shema EASY-E4-UC-12RC1 --> ![Vezalno shema EASY-E4-UC-12RC] ()
