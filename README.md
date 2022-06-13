@@ -31,7 +31,7 @@ Vezalno shema EASY-E4-UC-12RC1 --> ![Vezalno shema EASY-E4-UC-12RC](https://raw.
 Funkcijski program --> ![Funkcijski program](https://raw.githubusercontent.com/bozoslapy/projekt_KVIZ/67ea14814a81f3483eb28432d087cd38a6474edc/MIC.PNG)
 
 
-Vezalna shema MITSUBISHI --> ![Vezalna shema MITSUBISHI] ()
+Vezalna shema MITSUBISHI --> ![Vezalna shema MITSUBISHI](https://raw.githubusercontent.com/bozoslapy/projekt_KVIZ/e3bed993311b2cf9ba5153f99acc9f9804b2f517/mic%20vezava.PNG)
 
 
 Video --> [![Posnetek delovanja] ()
