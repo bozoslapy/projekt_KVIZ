@@ -34,7 +34,7 @@ Funkcijski program --> ![Funkcijski program](https://raw.githubusercontent.com/b
 Vezalna shema MITSUBISHI --> ![Vezalna shema MITSUBISHI](https://raw.githubusercontent.com/bozoslapy/projekt_KVIZ/e3bed993311b2cf9ba5153f99acc9f9804b2f517/mic%20vezava.PNG)
 
 
-Video --> [![Posnetek delovanja] ()
+Video --> [![Posnetek delovanja](https://github.com/bozoslapy/projekt_KVIZ/commit/ab4a5fa73625240c90e8163f564bc480f77cb7b0#diff-5150335ffa078d83e07173cb2fbf264ac6da1b273f8172aadc76bc659baae40d)
 
 
 
