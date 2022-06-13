@@ -25,7 +25,7 @@ Video --> [![Posnetek delovanja](https://raw.githubusercontent.com/bozoslapy/pro
 LAD program --> ![LAD program](https://raw.githubusercontent.com/bozoslapy/projekt_KVIZ/a73275f65a2a1e18d576af743fdbbe644eef21fb/Lad%20diagram.PNG)
 
 
-Vezalno shema EASY-E4-UC-12RC1 --> ![Vezalno shema EASY-E4-UC-12RC] (https://raw.githubusercontent.com/bozoslapy/projekt_KVIZ/main/vezalna%20shema%20easyeda.PNG)
+Vezalno shema EASY-E4-UC-12RC1 --> ![Vezalno shema EASY-E4-UC-12RC](https://raw.githubusercontent.com/bozoslapy/projekt_KVIZ/main/vezalna%20shema%20easyeda.PNG)
 
 
 Funkcijski program --> ![Funkcijski program] ()
